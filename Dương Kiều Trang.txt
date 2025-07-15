@@ -1,3 +1,4 @@
 Viết xuống dưới đây mục tiêu của em :
 - Học automation test
 - Thi chứng chỉ ISTQB Foundation
+- Chạy bộ
